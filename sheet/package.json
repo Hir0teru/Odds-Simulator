@@ -1,6 +1,10 @@
 {
   "dependencies": {
+    "@types/google-spreadsheet": "^3.1.5",
+    "@types/node": "^17.0.21",
+    "dotenv": "^16.0.0",
     "google-auth-library": "^7.14.0",
+    "google-spreadsheet": "^3.2.0",
     "googleapis": "^96.0.0"
   },
   "devDependencies": {
