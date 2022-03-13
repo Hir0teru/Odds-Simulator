@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "google-auth-library": "^7.14.0",
+    "googleapis": "^96.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  },
+  "scripts": {
+    "start": "tsc -p . && node ."
+  }
+}
